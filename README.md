@@ -1,6 +1,5 @@
-# 📌 Pinterest Clone
-
-A full-stack Pinterest-style image sharing web application that allows users to register, log in, upload images, and explore an infinite scrolling feed of content. Built with modern web technologies, this project replicates the core features of Pinterest and is designed to be scalable and user-friendly.
+# 📌 Visual Bookmarking Platform
+A full-stack image sharing web application that allows users to register, log in, upload images, and explore an infinite scrolling feed of content. Built with modern web technologies, this project replicates the core features of Pinterest and is designed to be scalable and user-friendly.
 
 ## 🚀 Features
 
